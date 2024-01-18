@@ -3,7 +3,7 @@ let loadCountries = async () => {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': '0cbdd767e2msh0f0a0c28449f55bp195814jsn44bd3f7633ef',
+            'X-RapidAPI-Key': '',
             'X-RapidAPI-Host': 'covid-193.p.rapidapi.com'
         }
     };
